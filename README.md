@@ -23,7 +23,7 @@ plotly express – Interactive choropleth mapping
 geopandas – Geospatial analysis (alternative for map rendering)
 
 ## How to Run/View the Project
-To explore the full analysis, open the Jupyter Notebook hosted on NBViewer: 🔗 View COVID-19 Data Tracker Notebook
+To explore the full analysis, open the Jupyter Notebook hosted on NBViewer: [🔗 View COVID-19 Data Tracker Notebook](https://nbviewer.org/github/purpleknight/PLPFinalPython/blob/main/covid.ipynb)
 
 ## Local Machine 
 1️⃣ Clone the repository or download the dataset. 2️⃣ Install dependencies:
